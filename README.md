@@ -1,2 +1,2 @@
 # MaskDetection
-In this project, I used haar cascades for detecting face and I did a basic project
+In this project, I used haar cascades for detecting face and I did a basic project. Face is detected in each frame which comes from webcam by using haar cascades then when the face has a mask, algorithm can not detect no more face. This situation can be used as "if statement" thus when algorithm sees clear face, it says "Please wear a mask". If algorithm sees a mask on face, it says "Thanks for wearing mask". As I said it is a basic procejt. We can detect face in many different ways such as Tensorflow. Further, I will do this project by using tensorflow.
